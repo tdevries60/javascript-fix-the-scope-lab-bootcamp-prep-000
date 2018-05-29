@@ -9,6 +9,7 @@ function yourAnimal() {
 }
 
 function add2(n) {
+  var number
   number = parseInt(n)
   return n + 2
 
